@@ -4,8 +4,8 @@ public class Outter2Ex {
 
 	public static void main(String[] args) {
 		Outter2 out = new Outter2();
-		Outter2.Nested ns = out.new Nested();
-		ns.print();
+		Outter2.Nested noooooooway = out.new Nested();
+		noooooooway.print();
 
 	}
 
